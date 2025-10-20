@@ -40,9 +40,9 @@ def project_card(p):
     cols = st.columns([1,2])
     with cols[0]:
         if image and Path(image).exists():
-            st.image(image, use_column_width=True)
+            st.image(image, use_container_width=True)
         else:
-            st.image("assets/placeholder.png", use_column_width=True)
+            st.image("assets/placeholder.png", use_container_width=True)
     with cols[1]:
         st.subheader(title)
         st.write(desc)
