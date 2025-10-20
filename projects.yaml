@@ -6,7 +6,7 @@
   links:
     github: https://github.com/meenakshirnair
     report: https://github.com/meenakshirnair
-  image: assets/ai_routing.png
+  image: ai_routing.png
 
 - title: Employee Attrition Prediction
   description: >
@@ -14,7 +14,7 @@
   tags: [Machine Learning, Python, Classification, HR Analytics]
   links:
     github: https://github.com/meenakshirnair
-  image: assets/attrition.png
+  image: attrition.png
 
 - title: Customer Churn Prediction
   description: >
@@ -22,7 +22,7 @@
   tags: [Machine Learning, Python, Churn, Classification]
   links:
     github: https://github.com/meenakshirnair
-  image: assets/churn.png
+  image: churn.png
 
 - title: House Rent Forecasting
   description: >
@@ -30,4 +30,4 @@
   tags: [Forecasting, Regression, Python]
   links:
     github: https://github.com/meenakshirnair
-  image: assets/rent.png
+  image: rent.png
