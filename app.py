@@ -42,7 +42,7 @@ def project_card(p):
         if image and Path(image).exists():
             st.image(image, use_container_width=True)
         else:
-            st.image("assets/placeholder.png", use_container_width=True)
+            st.image("placeholder.png", use_container_width=True)
     with cols[1]:
         st.subheader(title)
         st.write(desc)
